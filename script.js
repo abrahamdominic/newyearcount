@@ -4,7 +4,7 @@ const seconds = document.querySelector(".seconds .number"),
   days = document.querySelector(".days .number");
 
 let secValue = 11,
-  minValue = 2,
+  minValue = 59,
   hourValue = 23,
   dayValue = 4;
 
