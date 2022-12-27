@@ -4,8 +4,8 @@ const seconds = document.querySelector(".seconds .number"),
   days = document.querySelector(".days .number");
 
 let secValue = 11,
-  minValue = 59,
-  hourValue = 23,
+  minValue = 17,
+  hourValue = 3,
   dayValue = 4;
 
 const timeFunction = setInterval(() => {
